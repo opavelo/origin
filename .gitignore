@@ -1,0 +1,8 @@
+# каталог tmp
+/tmp
+
+# файлы выборочно
+Thumbs.db
+.DS_Store
+*_old
+*_backup
